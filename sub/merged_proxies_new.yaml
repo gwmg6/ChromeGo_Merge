@@ -2453,28 +2453,28 @@ proxies:
   skip-cert-verify: false
 - name: United States hysteria2 1
   type: hysteria2
-  server: hy3.3124845.xyz
-  port: 443
+  server: 166.1.18.178
+  port: 23456
   password: dongtaiwang.com
   fast-open: true
-  sni: hy3.3124845.xyz
-  skip-cert-verify: false
+  sni: bing.com
+  skip-cert-verify: true
 - name: United States hysteria2 2
   type: hysteria2
-  server: hy3.3124845.xyz
-  port: 443
+  server: 166.1.18.178
+  port: 23456
   password: dongtaiwang.com
   fast-open: true
-  sni: hy3.3124845.xyz
-  skip-cert-verify: false
+  sni: bing.com
+  skip-cert-verify: true
 - name: United States hysteria2 3
   type: hysteria2
-  server: hy3.3124845.xyz
-  port: 443
+  server: 166.1.18.178
+  port: 23456
   password: dongtaiwang.com
   fast-open: true
-  sni: hy3.3124845.xyz
-  skip-cert-verify: false
+  sni: bing.com
+  skip-cert-verify: true
 - name: France vless 0
   type: vless
   server: 62.210.101.0

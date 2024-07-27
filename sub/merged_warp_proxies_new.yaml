@@ -1436,7 +1436,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: United States vmess 094
+- name: None vmess 094
   type: vmess
   server: icook.tw
   port: 2086
@@ -1466,7 +1466,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: United States vmess 096
+- name: None vmess 096
   type: vmess
   server: japan.com
   port: 2086
@@ -1481,7 +1481,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: United States vmess 097
+- name: None vmess 097
   type: vmess
   server: malaysia.com
   port: 2086
@@ -1496,7 +1496,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None vmess 098
+- name: United States vmess 098
   type: vmess
   server: russia.com
   port: 2086
@@ -1511,7 +1511,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None vmess 099
+- name: United States vmess 099
   type: vmess
   server: singapore.com
   port: 2086
@@ -2091,11 +2091,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: Canada vmess 32
   type: vmess
   server: 23.227.38.6
@@ -2106,11 +2106,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: None vmess 33
   type: vmess
   server: 104.19.51.232
@@ -2121,11 +2121,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: None vmess 34
   type: vmess
   server: 104.19.38.62
@@ -2136,11 +2136,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip006.dtku47.xyz
+  servername: ip006.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip006.dtku47.xyz
+      Host: ip006.3196772.xyz
 - name: None vmess 41
   type: vmess
   server: 104.19.46.233
@@ -2151,11 +2151,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: Canada vmess 42
   type: vmess
   server: 23.227.38.6
@@ -2166,11 +2166,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: None vmess 43
   type: vmess
   server: 104.19.51.232
@@ -2181,11 +2181,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: None vmess 44
   type: vmess
   server: 104.19.38.62
@@ -2196,11 +2196,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip005.dtku47.xyz
+  servername: ip005.3196772.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip005.3196772.xyz
 - name: United States ss 51
   type: ss
   server: 23.170.40.77
@@ -2619,12 +2619,12 @@ proxy-groups:
   - United States vmess 091
   - None vmess 092
   - Canada vmess 093
-  - United States vmess 094
+  - None vmess 094
   - United States vmess 095
-  - United States vmess 096
-  - United States vmess 097
-  - None vmess 098
-  - None vmess 099
+  - None vmess 096
+  - None vmess 097
+  - United States vmess 098
+  - United States vmess 099
   - None vmess 0100
   - None vmess 0101
   - None vmess 11
@@ -2789,12 +2789,12 @@ proxy-groups:
   - United States vmess 091
   - None vmess 092
   - Canada vmess 093
-  - United States vmess 094
+  - None vmess 094
   - United States vmess 095
-  - United States vmess 096
-  - United States vmess 097
-  - None vmess 098
-  - None vmess 099
+  - None vmess 096
+  - None vmess 097
+  - United States vmess 098
+  - United States vmess 099
   - None vmess 0100
   - None vmess 0101
   - None vmess 11
@@ -2959,12 +2959,12 @@ proxy-groups:
   - United States vmess 091
   - None vmess 092
   - Canada vmess 093
-  - United States vmess 094
+  - None vmess 094
   - United States vmess 095
-  - United States vmess 096
-  - United States vmess 097
-  - None vmess 098
-  - None vmess 099
+  - None vmess 096
+  - None vmess 097
+  - United States vmess 098
+  - United States vmess 099
   - None vmess 0100
   - None vmess 0101
   - None vmess 11

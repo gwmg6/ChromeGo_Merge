@@ -1510,7 +1510,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip18.6016725.xyz
-- name: United States vmess 0100
+- name: None vmess 0100
   type: vmess
   server: skk.moe
   port: 2095
@@ -3037,7 +3037,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip24.6929198.xyz
-- name: United States vmess 296
+- name: None vmess 296
   type: vmess
   server: japan.com
   port: 2082
@@ -3082,7 +3082,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip24.6929198.xyz
-- name: None vmess 299
+- name: United States vmess 299
   type: vmess
   server: singapore.com
   port: 2082
@@ -3592,7 +3592,7 @@ proxy-groups:
   - None vmess 097
   - None vmess 098
   - None vmess 099
-  - United States vmess 0100
+  - None vmess 0100
   - None vmess 0101
   - None vmess 11
   - None vmess 12
@@ -3693,10 +3693,10 @@ proxy-groups:
   - Canada vmess 293
   - United States vmess 294
   - None vmess 295
-  - United States vmess 296
+  - None vmess 296
   - None vmess 297
   - United States vmess 298
-  - None vmess 299
+  - United States vmess 299
   - United States vmess 2100
   - None vmess 2101
   - None vmess 31
@@ -3828,7 +3828,7 @@ proxy-groups:
   - None vmess 097
   - None vmess 098
   - None vmess 099
-  - United States vmess 0100
+  - None vmess 0100
   - None vmess 0101
   - None vmess 11
   - None vmess 12
@@ -3929,10 +3929,10 @@ proxy-groups:
   - Canada vmess 293
   - United States vmess 294
   - None vmess 295
-  - United States vmess 296
+  - None vmess 296
   - None vmess 297
   - United States vmess 298
-  - None vmess 299
+  - United States vmess 299
   - United States vmess 2100
   - None vmess 2101
   - None vmess 31

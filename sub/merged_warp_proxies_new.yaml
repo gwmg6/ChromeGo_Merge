@@ -1481,7 +1481,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip22.6016725.xyz
-- name: None vmess 097
+- name: United States vmess 097
   type: vmess
   server: malaysia.com
   port: 2095
@@ -1511,7 +1511,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip22.6016725.xyz
-- name: None vmess 099
+- name: United States vmess 099
   type: vmess
   server: singapore.com
   port: 2095
@@ -3038,7 +3038,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip29.6929198.xyz
-- name: United States vmess 295
+- name: None vmess 295
   type: vmess
   server: ip.sb
   port: 2082
@@ -3620,9 +3620,9 @@ proxy-groups:
   - None vmess 094
   - United States vmess 095
   - United States vmess 096
-  - None vmess 097
+  - United States vmess 097
   - None vmess 098
-  - None vmess 099
+  - United States vmess 099
   - None vmess 0100
   - None vmess 0101
   - None vmess 11
@@ -3723,7 +3723,7 @@ proxy-groups:
   - None vmess 292
   - Canada vmess 293
   - United States vmess 294
-  - United States vmess 295
+  - None vmess 295
   - United States vmess 296
   - None vmess 297
   - United States vmess 298
@@ -3853,9 +3853,9 @@ proxy-groups:
   - None vmess 094
   - United States vmess 095
   - United States vmess 096
-  - None vmess 097
+  - United States vmess 097
   - None vmess 098
-  - None vmess 099
+  - United States vmess 099
   - None vmess 0100
   - None vmess 0101
   - None vmess 11
@@ -3956,7 +3956,7 @@ proxy-groups:
   - None vmess 292
   - Canada vmess 293
   - United States vmess 294
-  - United States vmess 295
+  - None vmess 295
   - United States vmess 296
   - None vmess 297
   - United States vmess 298
@@ -4086,9 +4086,9 @@ proxy-groups:
   - None vmess 094
   - United States vmess 095
   - United States vmess 096
-  - None vmess 097
+  - United States vmess 097
   - None vmess 098
-  - None vmess 099
+  - United States vmess 099
   - None vmess 0100
   - None vmess 0101
   - None vmess 11
@@ -4189,7 +4189,7 @@ proxy-groups:
   - None vmess 292
   - Canada vmess 293
   - United States vmess 294
-  - United States vmess 295
+  - None vmess 295
   - United States vmess 296
   - None vmess 297
   - United States vmess 298

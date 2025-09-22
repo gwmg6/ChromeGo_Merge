@@ -41,18 +41,6 @@ proxies:
   - 1.1.1.1
   - 8.8.8.8
   dialer-proxy: WARP前置节点
-- name: Unknown hysteria2 01
-  type: hysteria2
-  server: 2001:bc8:32d7:302::11
-  port: 20088
-  password: dongtaiwang.com
-  sni: apple.com
-  skip-cert-verify: true
-  alpn:
-  - h3
-  protocol: udp
-  up: 11 Mbps
-  down: 55 Mbps
 - name: Unknown hysteria2 11
   type: hysteria2
   server: 2001:bc8:32d7:302::11
@@ -108,18 +96,6 @@ proxies:
   server: 2001:bc8:32d7:302::17
   port: 20088
   password: dongtaiwang.com
-  sni: apple.com
-  skip-cert-verify: true
-  alpn:
-  - h3
-  protocol: udp
-  up: 11 Mbps
-  down: 55 Mbps
-- name: Unknown hysteria 61
-  type: hysteria
-  server: 2001:bc8:32d7:158::4
-  port: 50011
-  auth-str: dongtaiwang.com
   sni: apple.com
   skip-cert-verify: true
   alpn:
@@ -219,14 +195,6 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: United States hysteria2 0
-  type: hysteria2
-  server: 104.168.10.176
-  port: 35205
-  password: dongtaiwang.com
-  fast-open: true
-  sni: apple.com
-  skip-cert-verify: true
 - name: United States hysteria2 1
   type: hysteria2
   server: 104.168.10.176
@@ -300,13 +268,11 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
-  - Unknown hysteria2 01
   - Unknown hysteria2 11
   - Unknown tuic 21
   - Unknown hysteria2 31
   - Unknown tuic 41
   - Unknown hysteria2 51
-  - Unknown hysteria 61
   - France hysteria 71
   - France hysteria 81
   - Unknown hysteria 91
@@ -314,7 +280,6 @@ proxy-groups:
   - The Netherlands hysteria 1
   - The Netherlands hysteria 2
   - The Netherlands hysteria 3
-  - United States hysteria2 0
   - United States hysteria2 1
   - United States hysteria2 2
   - United States hysteria2 3
@@ -323,13 +288,11 @@ proxy-groups:
 - name: 手动选择
   type: select
   proxies:
-  - Unknown hysteria2 01
   - Unknown hysteria2 11
   - Unknown tuic 21
   - Unknown hysteria2 31
   - Unknown tuic 41
   - Unknown hysteria2 51
-  - Unknown hysteria 61
   - France hysteria 71
   - France hysteria 81
   - Unknown hysteria 91
@@ -337,7 +300,6 @@ proxy-groups:
   - The Netherlands hysteria 1
   - The Netherlands hysteria 2
   - The Netherlands hysteria 3
-  - United States hysteria2 0
   - United States hysteria2 1
   - United States hysteria2 2
   - United States hysteria2 3
@@ -346,13 +308,11 @@ proxy-groups:
 - name: 负载均衡
   type: load-balance
   proxies:
-  - Unknown hysteria2 01
   - Unknown hysteria2 11
   - Unknown tuic 21
   - Unknown hysteria2 31
   - Unknown tuic 41
   - Unknown hysteria2 51
-  - Unknown hysteria 61
   - France hysteria 71
   - France hysteria 81
   - Unknown hysteria 91
@@ -360,7 +320,6 @@ proxy-groups:
   - The Netherlands hysteria 1
   - The Netherlands hysteria 2
   - The Netherlands hysteria 3
-  - United States hysteria2 0
   - United States hysteria2 1
   - United States hysteria2 2
   - United States hysteria2 3
